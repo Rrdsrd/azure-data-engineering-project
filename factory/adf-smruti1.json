@@ -1,0 +1,15 @@
+{
+	"name": "adf-smruti1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fba4d85f-ab60-4857-b78f-073e726e9c24",
+		"tenantId": "70e8c73e-00d1-4e94-b936-32aefbdcb870"
+	}
+}
